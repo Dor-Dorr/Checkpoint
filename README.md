@@ -2,13 +2,13 @@
 
 Diese Website dient als zukünfitge Plattform für Multmediaprojekte. 
 
-<img width="1808" height="938" alt="Image" src="https://github.com/user-attachments/assets/d9b645f1-4328-4682-8593-7bc0af3f573b" />
-
 ## 🚧 Work in Progress
 
 Dieses Projekt befindet sich aktuell in der Entwicklung und wird kontinuierlich erweitert.
 
 Geplante Features und Inhalte können sich während der Entwicklung ändern.
+
+<img width="1845" height="951" alt="Image" src="https://github.com/user-attachments/assets/a28eb50f-883e-4565-9f73-e36a563adca4" />
 
 ## ⚛️ Technologien
 
@@ -32,16 +32,22 @@ Der Blog wird mit folgenden Technologien entwickelt:
 - Schnelle Ladezeiten
 
 ## 📷 Vorschau
+### Artikel
+
+Das schreiben von Blog Einträgen oder Artikel sollte möglichst einfach Strukturiert sein, aber dennoch Informationen leicht und Fokusiert übermitteln.
+Zuerst sollte der Titel des Eintrags wahrnehmbar sein, um eine Orientierung zu schaffen. Darauf folgt ein passendes Bild um den Inhalt stärker zu Fokusieren.
+Nach dem lesen des Textes gibt es die Möglichkeit sich mit anderen Usern auszutauschen.
+
+<img width="1808" height="938" alt="Image" src="https://github.com/user-attachments/assets/d9b645f1-4328-4682-8593-7bc0af3f573b" />
+
+### Login
+
+Das anmelden als User oder Admin wird durch den Anbieter Clerk realisiert. Dieser bietet sie einfache Möglichkeit sich sicher über verschiedene Dritte, wie Google anzumelden.
+
+<img width="1808" height="938" alt="Image" src="https://github.com/user-attachments/assets/d9b645f1-4328-4682-8593-7bc0af3f573b" />
 
 
 
-## 🛠️ Verwendete Technologien
-
-- React
-- JavaScript / TypeScript
-- HTML5
-- CSS3
-- Git & GitHub
 
 ## 📂 Projektstruktur
 
@@ -49,9 +55,11 @@ Der Blog wird mit folgenden Technologien entwickelt:
 ├── public/
 ├── src/
 │   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── styles/
+│   ├── layouts/
+│   ├── routes/
+│   └── App.jsx/
+│   └── index.css/
+│   └── main.jsx/
 ├── package.json
 └── README.md
 ```
@@ -90,17 +98,6 @@ http://localhost:5173
 
 erreichbar.
 
-## 🎮 Inhalte
-
-Der Blog konzentriert sich auf:
-
-- Retro-Games
-- Strategie-Spiele
-- Shooter
-- RPGs
-- Indie-Games
-- Reviews und Analysen
-- Gaming-News
 
 ## 📈 Zukünftige Features
 
@@ -112,10 +109,4 @@ Der Blog konzentriert sich auf:
 - Mehrsprachigkeit
 
 ## 🤝 Mitwirken
-
-Verbesserungsvorschläge, Bug-Reports und Pull Requests sind willkommen.
-
-1. Repository forken
-2. Feature-Branch erstellen
-3. Änderungen committen
-4. Pull Request erstellen
+Lama Dev
