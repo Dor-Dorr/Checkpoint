@@ -64,41 +64,6 @@ Das anmelden als User oder Admin wird durch den Anbieter Clerk realisiert. Diese
 └── README.md
 ```
 
-## ⚙️ Installation
-
-Repository klonen:
-
-```bash
-git clone https://github.com/dein-benutzername/gaming-blog.git
-```
-
-In das Projektverzeichnis wechseln:
-
-```bash
-cd gaming-blog
-```
-
-Abhängigkeiten installieren:
-
-```bash
-npm install
-```
-
-Entwicklungsserver starten:
-
-```bash
-npm run dev
-```
-
-Die Anwendung ist anschließend unter:
-
-```text
-http://localhost:5173
-```
-
-erreichbar.
-
-
 ## 📈 Zukünftige Features
 
 - Kommentarsystem
