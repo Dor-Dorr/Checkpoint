@@ -1,6 +1,24 @@
 # Blog Website (Work in progress)
 
-Diese Website dient als zukünfitge Plattform für Multmediaprojekte.
+Diese Website dient als zukünfitge Plattform für Multmediaprojekte. 
+
+## 🚧 Work in Progress
+
+Dieses Projekt befindet sich aktuell in der Entwicklung und wird kontinuierlich erweitert.
+
+Geplante Features und Inhalte können sich während der Entwicklung ändern.
+
+## ⚛️ Technologien
+
+Der Blog wird mit folgenden Technologien entwickelt:
+
+- React
+- JavaScript / TypeScript
+- HTML5
+- CSS3
+- Git & GitHub
+- clerk (Authentifizierung)
+
 
 ## 🚀 Features
 
