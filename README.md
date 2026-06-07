@@ -44,7 +44,7 @@ Nach dem lesen des Textes gibt es die Möglichkeit sich mit anderen Usern auszut
 
 Das anmelden als User oder Admin wird durch den Anbieter Clerk realisiert. Dieser bietet sie einfache Möglichkeit sich sicher über verschiedene Dritte, wie Google anzumelden.
 
-<img width="1808" height="938" alt="Image" src="https://github.com/user-attachments/assets/d9b645f1-4328-4682-8593-7bc0af3f573b" />
+<img width="1837" height="951" alt="Image" src="https://github.com/user-attachments/assets/db3e5963-b5e1-4439-89c8-a167b29e9883" />
 
 
 
