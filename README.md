@@ -2,6 +2,8 @@
 
 Diese Website dient als zukünfitge Plattform für Multmediaprojekte. 
 
+<img width="1808" height="938" alt="Image" src="https://github.com/user-attachments/assets/d9b645f1-4328-4682-8593-7bc0af3f573b" />
+
 ## 🚧 Work in Progress
 
 Dieses Projekt befindet sich aktuell in der Entwicklung und wird kontinuierlich erweitert.
@@ -31,7 +33,7 @@ Der Blog wird mit folgenden Technologien entwickelt:
 
 ## 📷 Vorschau
 
-![Screenshot der Blog-Seite](./images/screenshot.png)
+
 
 ## 🛠️ Verwendete Technologien
 
